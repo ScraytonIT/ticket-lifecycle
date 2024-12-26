@@ -29,28 +29,42 @@ This tutorial outlines the lifecycle of a ticket from intake to resolution withi
 - Working the Issue
 - Resolution
 
-<h2>Lifecycle Stages</h2>
+<h2>Ticket Creation/Examples</h2>
 
 <p>
-<img src="https://i.imgur.com/DJmEXEB.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+
+<img width="955" alt="Screenshot 2024-12-26 at 10 47 09 AM" src="https://github.com/user-attachments/assets/3fc9db3b-45db-4332-997a-951754976e16" />
+
 </p>
 <p>
-Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur.
+1. Ticket: Mobile/Online Banking System Down
+End-User Action: Create a ticket reporting the mobile/online banking system is completely down.
+Help Desk Action (John): Review ticket properties such as priority, department, SLA, and assigned agent. Update ticket to Priority: Sev-A (1 hour, 24/7) and Department: Online Banking.
+Final Step: The ticket is worked to completion by Jane.
+</p>
+<br />
+<img width="372" alt="Screenshot 2024-12-26 at 11 49 03 AM" src="https://github.com/user-attachments/assets/787fc1f2-7585-4c56-8da4-7280eca6d95e" />
+
+
+<p>
+
+</p>
+<p>
+2. Ticket: Adobe Upgrade for Accounting
+End-User Action: Create a ticket requesting an Adobe upgrade for the accounting department due to a broken feature.
+Help Desk Action (John): Review ticket properties and update to Priority: Sev-C(8 hours, Business Hours) and Department: Support.
+Final Step: John works the ticket to completion.
 </p>
 <br />
 
 <p>
-<img src="https://i.imgur.com/DJmEXEB.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
-</p>
-<p>
-Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur.
-</p>
-<br />
+<img width="955" alt="Screenshot 2024-12-26 at 11 19 54 AM" src="https://github.com/user-attachments/assets/edf18a58-06ba-4fcb-944f-2154c42f8733" />
 
-<p>
-<img src="https://i.imgur.com/DJmEXEB.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
 </p>
 <p>
-Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur.
+3. Ticket: CFO’s Laptop Won’t Turn On
+End-User Action: Create a ticket reporting that the CFO’s laptop will not power on.
+Help Desk Action (John): Review ticket properties and set Priority: Sev-B (4 hours, 24/7) and Department: Support.
+Final Step: John works the ticket to completion.
 </p>
 <br />
